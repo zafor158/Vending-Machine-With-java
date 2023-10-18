@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
 2. Open the project in your Java IDE.
 3. Build the project.
 
-###Usage
+### Usage
 Run the Vending Machine application from your IDE.
 Follow the on-screen instructions to select products and make payments.
 Enjoy your chosen items!
