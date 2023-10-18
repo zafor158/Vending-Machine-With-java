@@ -1,6 +1,6 @@
 # Vending Machine Simulation in Java
 
-![Vending Machine](vending-machine-image.jpg)
+
 
 A Java-based console application that simulates the operation of a vending machine. This project provides a realistic vending experience, allowing users to make product selections, process payments, and receive their chosen items.
 
