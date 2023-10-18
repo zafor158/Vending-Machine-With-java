@@ -1,37 +1,36 @@
-# Project Name: Vending Machine
+# Vending Machine Simulation in Java
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+![Vending Machine](vending-machine-image.jpg)
+
+A Java-based console application that simulates the operation of a vending machine. This project provides a realistic vending experience, allowing users to make product selections, process payments, and receive their chosen items.
 
 ## Description
-The Vending Machine project is a Java-based application that simulates the operation of a real-world vending machine. It allows users to make selections from a range of products, make payments, and receive their selected items once the payment is completed.
+The Vending Machine project is designed to replicate the operation of a real-world vending machine. It offers a command-line interface for users to interact with, providing the following features:
 
 ## Features
-- User-friendly command-line interface for easy interaction.
-- Support for a variety of products, each with its own pricing.
-- Realistic simulation of payment handling, including accepting coins and bills.
-- Product inventory management, with notifications for low stock.
-- Change dispensing for overpaid transactions.
-- A well-structured and object-oriented codebase for extensibility and maintainability.
+- **User-Friendly Interface**: The console-based interface is intuitive and easy to navigate, providing a seamless user experience.
+
+- **Product Selection**: Users can select from a variety of products, each with its own name, price, and category.
+
+- **Payment Handling**: Realistic payment simulation includes accepting coins and bills, providing accurate change when required.
+
+- **Product Inventory**: The vending machine keeps track of product inventory, and users are notified when products are running low.
+
+- **Extensible and Well-Structured Code**: The project is built using Java and follows an object-oriented approach, making it easily extendable and maintainable.
 
 ## Getting Started
-To get started with this project, follow the steps below:
+To use this project, follow the steps below:
 
 ### Prerequisites
 - Java Development Kit (JDK) installed on your system.
 - An integrated development environment (IDE) for Java, such as IntelliJ IDEA or Eclipse.
 
 ### Installation
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/vending-machine.git
-2. Open the project in your Java IDE.
-3. Build the project.
+1. Clone this repository to your local machine:
+
+   ```sh
+   git clone https://github.com/yourusername/vending-machine.git
+
 
 ### Usage
 Run the Vending Machine application from your IDE.
