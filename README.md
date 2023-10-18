@@ -4,8 +4,8 @@
 - [Description](#description)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,5 +29,13 @@ To get started with this project, follow the steps below:
 - An integrated development environment (IDE) for Java, such as IntelliJ IDEA or Eclipse.
 
 ### Installation
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: git clone https://github.com/yourusername/vending-machine.git
+2. Open the project in your Java IDE.
+3. Build the project.
+
+###Usage
+Run the Vending Machine application from your IDE.
+Follow the on-screen instructions to select products and make payments.
+Enjoy your chosen items!
+
 
